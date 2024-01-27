@@ -4,7 +4,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/CodeSculptorX/CodeSculptorX)](https:CodeSculptorX.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vivek-kajavadra)
 
-## Hey there 👋
+Hey there 👋
 
 I’m Vivek Patel, a seasoned .NET developer and cloud enthusiast who specializes in building APIs in the Cloud. I’m passionate about translating user-focused designs into pixel-perfect applications that run blazing fast.
 
