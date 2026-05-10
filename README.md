@@ -67,13 +67,6 @@ I build and run integration platforms on Microsoft Azure — Logic Apps, .NET 8 
 
 ---
 
-### 📊 GitHub Stats
-
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeSculptorX&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSculptorX&layout=compact&theme=default&hide_border=true&langs_count=8)
-
----
-
 ### 💬 Let's connect
 
 Open to **Cloud Engineer, Azure Solutions Architect** and **multi-cloud engineering** roles. Drop me a line if you're hiring, collaborating on something Azure-shaped, or just want to chat about integration patterns.
